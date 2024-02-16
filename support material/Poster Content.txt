@@ -1,0 +1,34 @@
+Main title: High-Performance Computing: Exploring Limitless Possibilities
+Subtitle: Unlock the future
+
+
+Part1: What you learn (course content):
+1. Basic Theory: Parallel computing, distributed computing, etc.
+2. Architecture & Technology: Supercomputers, Graphics Processing Unitacceleration and other HPC technologies.
+3. Practical Application & Optimization: Apply HPC technology to solve practical problems and optimise performance.
+4. Teamwork & project management: Develop teamwork and project management skills in HPC projects.
+
+
+Part2: Why you learn (Course highlights) 
+1. Accelerate scientific and technological innovation
+2. Promote social development and progress
+3. Open up new possibilities for human beings to explore the unknown
+4. Taught by senior experts. Receive the most professional guidance
+1. In-depth understanding of HPC technology: Through this course, you can gain an in-depth 
+
+Part3: HPC Applications
+1. Engineering
+2. Finance
+3. Government & Defence
+4. Automotive Industry
+5. Climate Simulation
+6. Biology
+...
+
+Part4: Information
+1. Course Date: From 7/11/2023 to 29/11/2023
+2. Format: 8h (lecture) + 8h (workshop)
+3. Location: D/TLC025(lecture) D/CC-0007(workshop)
+4. Contact us: Email:cs.miscada-director@durham.ac.uk
+
+Welcome to join us and start a new era of computing together!
